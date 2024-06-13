@@ -1,5 +1,5 @@
-import CounterWithCustomHook from "./components/counterWithCustomHook/CounterWithCustomHook";
+import PureComponentExample from "./components/pureComponent/PureComponentExample";
 
 export default function App() {
-  return <CounterWithCustomHook />;
+  return <PureComponentExample />;
 }
