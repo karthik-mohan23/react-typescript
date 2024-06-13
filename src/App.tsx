@@ -1,5 +1,5 @@
-import Counter from "./components/counter/Counter";
+import BackgroundChanger from "./components/bgChanger/BackgroundChanger";
 
 export default function App() {
-  return <Counter />;
+  return <BackgroundChanger />;
 }
