@@ -5,11 +5,12 @@ function Example1() {
 
   const handleText = () => {
     setText(text + "World");
-    setText(text + "React");
+    setText(text + " React");
   };
 
   return (
     <div>
+      <h1>{text}</h1>
       <button onClick={handleText}>Click me</button>
     </div>
   );
