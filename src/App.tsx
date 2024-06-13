@@ -1,5 +1,5 @@
-import PureComponentExample from "./components/pureComponent/PureComponentExample";
+import Example2 from "./components/useEffect/Example2";
 
 export default function App() {
-  return <PureComponentExample />;
+  return <Example2 />;
 }
