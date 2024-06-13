@@ -1,5 +1,5 @@
-import BackgroundChanger from "./components/bgChanger/BackgroundChanger";
+import CounterWithCustomHook from "./components/counterWithCustomHook/CounterWithCustomHook";
 
 export default function App() {
-  return <BackgroundChanger />;
+  return <CounterWithCustomHook />;
 }
