@@ -1,5 +1,5 @@
-import Example1 from "./components/useState/Example1";
+import Example4 from "./components/useEffect/Example4";
 
 export default function App() {
-  return <Example1 />;
+  return <Example4 />;
 }
