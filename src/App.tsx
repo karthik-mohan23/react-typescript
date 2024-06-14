@@ -1,5 +1,5 @@
-import Example4 from "./components/useEffect/Example4";
+import PasswordGenerator from "./components/passwordGenerator/PasswordGenerator";
 
 export default function App() {
-  return <Example4 />;
+  return <PasswordGenerator />;
 }
