@@ -1,5 +1,5 @@
-import PasswordGenerator from "./components/passwordGenerator/PasswordGenerator";
+import CurrencyConverter from "./components/currencyConverter/CurrencyConverter";
 
 export default function App() {
-  return <PasswordGenerator />;
+  return <CurrencyConverter />;
 }
